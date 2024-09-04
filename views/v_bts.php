@@ -9,9 +9,9 @@
 <div class="row">
 
  <div class="col-md-12">
-  <h1>Data BTS</h1>
-  <hr>
   <div class="container-lg ">
+  <h1 class="">Data BTS With AJAX</h1>
+  <hr>
    <div class="card  p-5 m-5">
     <label for="kelurahan">Filter Kelurahan</label>
     <select class="form-control mb-5" id="kelurahan" style="width:20%">
